@@ -1,0 +1,1689 @@
+{
+  "items": [
+    {
+      "id": "2878800383",
+      "state": {
+        "id": "discard",
+        "name": "Отказ"
+      },
+      "created_at": "2022-09-07T19:03:04+0300",
+      "updated_at": "2022-09-08T09:58:50+0300",
+      "resume": {
+        "id": "58909510ff0b3ea2730039ed1f52566243704f",
+        "title": "Игра",
+        "url": "https://api.hh.ru/resumes/58909510ff0b3ea2730039ed1f52566243704f",
+        "alternate_url": "https://hh.ru/resume/58909510ff0b3ea2730039ed1f52566243704f"
+      },
+      "viewed_by_opponent": true,
+      "has_updates": false,
+      "messages_url": "https://api.hh.ru/negotiations/2878800383/messages",
+      "url": "https://api.hh.ru/negotiations/2878800383",
+      "counters": {
+        "messages": 1,
+        "unread_messages": 0
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2875155348,
+      "messaging_status": "no_invitation",
+      "decline_allowed": false,
+      "read": true,
+      "has_new_messages": false,
+      "hidden": true,
+      "vacancy": {
+        "id": "66538119",
+        "premium": false,
+        "name": "Оператор на телефоне (удаленно)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 45000,
+          "to": null,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-08-29T09:28:59+0300",
+        "created_at": "2022-08-29T09:28:59+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=66538119",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/66538119?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/66538119/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/66538119",
+        "employer": {
+          "id": "3089",
+          "name": "РУНА, консалтинговая группа",
+          "url": "https://api.hh.ru/employers/3089",
+          "alternate_url": "https://hh.ru/employer/3089",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/862421.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/862422.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232134.jpg"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3089",
+          "trusted": true
+        }
+      }
+    },
+    {
+      "id": "2878894416",
+      "state": {
+        "id": "response",
+        "name": "Отклик"
+      },
+      "created_at": "2022-09-07T20:04:29+0300",
+      "updated_at": "2022-09-07T20:04:29+0300",
+      "resume": {
+        "id": "58909510ff0b3ea2730039ed1f52566243704f",
+        "title": "Игра",
+        "url": "https://api.hh.ru/resumes/58909510ff0b3ea2730039ed1f52566243704f",
+        "alternate_url": "https://hh.ru/resume/58909510ff0b3ea2730039ed1f52566243704f"
+      },
+      "viewed_by_opponent": false,
+      "has_updates": false,
+      "messages_url": "https://api.hh.ru/negotiations/2878894416/messages",
+      "url": "https://api.hh.ru/negotiations/2878894416",
+      "counters": {
+        "messages": 0,
+        "unread_messages": 0
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2875249380,
+      "messaging_status": "no_invitation",
+      "decline_allowed": false,
+      "read": false,
+      "has_new_messages": false,
+      "hidden": true,
+      "vacancy": {
+        "id": "69525427",
+        "premium": false,
+        "name": "Аналитик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "78",
+          "name": "Самара",
+          "url": "https://api.hh.ru/areas/78"
+        },
+        "salary": {
+          "from": 38000,
+          "to": 40000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Самара",
+          "street": "Ново-Садовая улица",
+          "building": "106",
+          "description": null,
+          "lat": 53.217187,
+          "lng": 50.148981,
+          "raw": "Самара, Ново-Садовая улица, 106",
+          "metro": {
+            "station_name": "Российская",
+            "line_name": "Первая",
+            "station_id": "54.307",
+            "line_id": "54",
+            "lat": 53.211385,
+            "lng": 50.15022
+          },
+          "metro_stations": [
+            {
+              "station_name": "Российская",
+              "line_name": "Первая",
+              "station_id": "54.307",
+              "line_id": "54",
+              "lat": 53.211385,
+              "lng": 50.15022
+            }
+          ],
+          "id": "7014543"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-09-08T13:16:34+0300",
+        "created_at": "2022-09-08T13:16:34+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69525427",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/69525427?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/69525427/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/69525427",
+        "employer": {
+          "id": "1162270",
+          "name": "Группа компаний «Баланс»",
+          "url": "https://api.hh.ru/employers/1162270",
+          "alternate_url": "https://hh.ru/employer/1162270",
+          "logo_urls": {
+            "240": "https://hhcdn.ru/employer-logo/2299417.png",
+            "90": "https://hhcdn.ru/employer-logo/2299416.png",
+            "original": "https://hhcdn.ru/employer-logo-original/464390.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1162270",
+          "trusted": true
+        }
+      }
+    },
+    {
+      "id": "2878541856",
+      "state": {
+        "id": "response",
+        "name": "Отклик"
+      },
+      "created_at": "2022-09-07T16:50:30+0300",
+      "updated_at": "2022-09-07T16:50:30+0300",
+      "resume": {
+        "id": "58909510ff0b3ea2730039ed1f52566243704f",
+        "title": "Игра",
+        "url": "https://api.hh.ru/resumes/58909510ff0b3ea2730039ed1f52566243704f",
+        "alternate_url": "https://hh.ru/resume/58909510ff0b3ea2730039ed1f52566243704f"
+      },
+      "viewed_by_opponent": true,
+      "has_updates": false,
+      "messages_url": "https://api.hh.ru/negotiations/2878541856/messages",
+      "url": "https://api.hh.ru/negotiations/2878541856",
+      "counters": {
+        "messages": 0,
+        "unread_messages": 0
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2874896823,
+      "messaging_status": "disabled_by_employer",
+      "decline_allowed": false,
+      "read": true,
+      "has_new_messages": false,
+      "hidden": true,
+      "vacancy": {
+        "id": "69464585",
+        "premium": false,
+        "name": "Модератор YouTube/Twich",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "88",
+          "name": "Казань",
+          "url": "https://api.hh.ru/areas/88"
+        },
+        "salary": {
+          "from": 45000,
+          "to": 55000,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-09-07T08:55:27+0300",
+        "created_at": "2022-09-07T08:55:27+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69464585",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/69464585?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/69464585/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/69464585",
+        "employer": {
+          "id": "9024610",
+          "name": "Аспект Групп",
+          "url": "https://api.hh.ru/employers/9024610",
+          "alternate_url": "https://hh.ru/employer/9024610",
+          "logo_urls": null,
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9024610",
+          "trusted": true
+        }
+      }
+    },
+    {
+      "id": "2594657986",
+      "state": {
+        "id": "response",
+        "name": "Отклик"
+      },
+      "created_at": "2022-04-07T13:28:14+0300",
+      "updated_at": "2022-04-07T13:28:14+0300",
+      "resume": {
+        "id": "6db03983ff09d4a9860039ed1f5261666e7044",
+        "title": "Backend-developer",
+        "url": "https://api.hh.ru/resumes/6db03983ff09d4a9860039ed1f5261666e7044",
+        "alternate_url": "https://hh.ru/resume/6db03983ff09d4a9860039ed1f5261666e7044"
+      },
+      "viewed_by_opponent": true,
+      "has_updates": false,
+      "messages_url": "https://api.hh.ru/negotiations/2594657986/messages",
+      "url": "https://api.hh.ru/negotiations/2594657986",
+      "counters": {
+        "messages": 1,
+        "unread_messages": 0
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2590917885,
+      "messaging_status": "archived",
+      "decline_allowed": false,
+      "read": true,
+      "has_new_messages": false,
+      "hidden": false,
+      "vacancy": {
+        "id": "50628561",
+        "premium": false,
+        "name": "Специалист по парсингу данных (python)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "131",
+          "name": "Симферополь",
+          "url": "https://api.hh.ru/areas/131"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Симферополь",
+          "street": "улица Героев Сталинграда",
+          "building": "10",
+          "description": null,
+          "lat": 44.937168,
+          "lng": 34.057836,
+          "raw": "Симферополь, улица Героев Сталинграда, 10",
+          "metro": null,
+          "metro_stations": [],
+          "id": "5887077"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-04-06T16:51:52+0300",
+        "created_at": "2022-04-06T16:51:52+0300",
+        "archived": true,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=50628561",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/50628561?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/50628561/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/50628561",
+        "employer": {
+          "id": "1521936",
+          "name": "РНКБ Банк (ПАО)",
+          "url": "https://api.hh.ru/employers/1521936",
+          "alternate_url": "https://hh.ru/employer/1521936",
+          "logo_urls": {
+            "original": "https://hhcdn.ru/employer-logo-original/523043.png",
+            "240": "https://hhcdn.ru/employer-logo/2533650.png",
+            "90": "https://hhcdn.ru/employer-logo/2533649.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1521936",
+          "trusted": true
+        }
+      }
+    },
+    {
+      "id": "2310789375",
+      "state": {
+        "id": "invitation",
+        "name": "Приглашение"
+      },
+      "created_at": "2021-09-03T18:31:29+0300",
+      "updated_at": "2021-11-27T11:34:19+0300",
+      "resume": null,
+      "viewed_by_opponent": false,
+      "has_updates": false,
+      "messages_url": "https://api.hh.ru/negotiations/2310789375/messages",
+      "url": "https://api.hh.ru/negotiations/2310789375",
+      "counters": {
+        "messages": 2,
+        "unread_messages": 1
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2307032509,
+      "messaging_status": "archived",
+      "decline_allowed": false,
+      "read": false,
+      "has_new_messages": false,
+      "hidden": true,
+      "vacancy": {
+        "id": "44742470",
+        "premium": false,
+        "name": "Компьютерный Мастер",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "131",
+          "name": "Симферополь",
+          "url": "https://api.hh.ru/areas/131"
+        },
+        "salary": {
+          "from": 60000,
+          "to": null,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2022-02-26T12:32:52+0300",
+        "created_at": "2022-02-26T12:32:52+0300",
+        "archived": true,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=44742470",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/44742470?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/44742470/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/44742470",
+        "employer": {
+          "id": "4194830",
+          "name": "Матрица",
+          "url": "https://api.hh.ru/employers/4194830",
+          "alternate_url": "https://hh.ru/employer/4194830",
+          "logo_urls": {
+            "original": "https://hhcdn.ru/employer-logo-original/668351.jpg",
+            "240": "https://hhcdn.ru/employer-logo/3114537.jpeg",
+            "90": "https://hhcdn.ru/employer-logo/3114536.jpeg"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4194830",
+          "trusted": false
+        }
+      }
+    },
+    {
+      "id": "2347360348",
+      "state": {
+        "id": "invitation",
+        "name": "Приглашение"
+      },
+      "created_at": "2021-10-01T15:03:18+0300",
+      "updated_at": "2021-11-16T17:39:11+0300",
+      "resume": null,
+      "viewed_by_opponent": true,
+      "has_updates": true,
+      "messages_url": "https://api.hh.ru/negotiations/2347360348/messages",
+      "url": "https://api.hh.ru/negotiations/2347360348",
+      "counters": {
+        "messages": 1,
+        "unread_messages": 0
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2343603482,
+      "messaging_status": "archived",
+      "decline_allowed": false,
+      "read": true,
+      "has_new_messages": true,
+      "hidden": false,
+      "vacancy": {
+        "id": "47977333",
+        "premium": false,
+        "name": "Менеджер по продажам в IT-сервисную компанию",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "131",
+          "name": "Симферополь",
+          "url": "https://api.hh.ru/areas/131"
+        },
+        "salary": {
+          "from": 60000,
+          "to": 130000,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2021-10-13T10:38:08+0300",
+        "created_at": "2021-10-13T10:38:08+0300",
+        "archived": true,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=47977333",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/47977333?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/47977333/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/47977333",
+        "employer": {
+          "id": "5130287",
+          "name": "Поляков Денис Иванович",
+          "url": "https://api.hh.ru/employers/5130287",
+          "alternate_url": "https://hh.ru/employer/5130287",
+          "logo_urls": null,
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5130287",
+          "trusted": true
+        }
+      }
+    },
+    {
+      "id": "2378707659",
+      "state": {
+        "id": "invitation",
+        "name": "Приглашение"
+      },
+      "created_at": "2021-10-25T18:45:48+0300",
+      "updated_at": "2021-10-26T08:59:58+0300",
+      "resume": null,
+      "viewed_by_opponent": true,
+      "has_updates": true,
+      "messages_url": "https://api.hh.ru/negotiations/2378707659/messages",
+      "url": "https://api.hh.ru/negotiations/2378707659",
+      "counters": {
+        "messages": 1,
+        "unread_messages": 0
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2374950793,
+      "messaging_status": "archived",
+      "decline_allowed": false,
+      "read": true,
+      "has_new_messages": true,
+      "hidden": false,
+      "vacancy": {
+        "id": "48958835",
+        "premium": false,
+        "name": "Консультант онлайн-банка (удаленно)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "131",
+          "name": "Симферополь",
+          "url": "https://api.hh.ru/areas/131"
+        },
+        "salary": {
+          "from": 25000,
+          "to": null,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2021-10-19T11:15:32+0300",
+        "created_at": "2021-10-19T11:15:32+0300",
+        "archived": true,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=48958835",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/48958835?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/48958835/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/48958835",
+        "employer": {
+          "id": "5120112",
+          "name": "Rabotaika",
+          "url": "https://api.hh.ru/employers/5120112",
+          "alternate_url": "https://hh.ru/employer/5120112",
+          "logo_urls": {
+            "240": "https://hhcdn.ru/employer-logo/3721836.png",
+            "90": "https://hhcdn.ru/employer-logo/3721835.png",
+            "original": "https://hhcdn.ru/employer-logo-original/820237.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5120112",
+          "trusted": false
+        }
+      }
+    },
+    {
+      "id": "2347358301",
+      "state": {
+        "id": "discard",
+        "name": "Отказ"
+      },
+      "created_at": "2021-10-01T15:01:51+0300",
+      "updated_at": "2021-10-02T10:38:25+0300",
+      "resume": null,
+      "viewed_by_opponent": true,
+      "has_updates": true,
+      "messages_url": "https://api.hh.ru/negotiations/2347358301/messages",
+      "url": "https://api.hh.ru/negotiations/2347358301",
+      "counters": {
+        "messages": 1,
+        "unread_messages": 0
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2343601435,
+      "messaging_status": "archived",
+      "decline_allowed": false,
+      "read": true,
+      "has_new_messages": true,
+      "hidden": false,
+      "vacancy": {
+        "id": "47768685",
+        "premium": false,
+        "name": "Помощник сервисного инженера",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "131",
+          "name": "Симферополь",
+          "url": "https://api.hh.ru/areas/131"
+        },
+        "salary": {
+          "from": 40000,
+          "to": 120000,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2021-10-05T15:39:00+0300",
+        "created_at": "2021-10-05T15:39:00+0300",
+        "archived": true,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=47768685",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/47768685?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/47768685/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/47768685",
+        "employer": {
+          "id": "5696778",
+          "name": "Буланкин Иван Александрович",
+          "url": "https://api.hh.ru/employers/5696778",
+          "alternate_url": "https://hh.ru/employer/5696778",
+          "logo_urls": null,
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5696778",
+          "trusted": true
+        }
+      }
+    },
+    {
+      "id": "2310783743",
+      "state": {
+        "id": "invitation",
+        "name": "Приглашение"
+      },
+      "created_at": "2021-09-03T18:25:28+0300",
+      "updated_at": "2021-09-11T16:36:59+0300",
+      "resume": null,
+      "viewed_by_opponent": true,
+      "has_updates": false,
+      "messages_url": "https://api.hh.ru/negotiations/2310783743/messages",
+      "url": "https://api.hh.ru/negotiations/2310783743",
+      "counters": {
+        "messages": 1,
+        "unread_messages": 0
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2307026877,
+      "messaging_status": "archived",
+      "decline_allowed": false,
+      "read": true,
+      "has_new_messages": false,
+      "hidden": false,
+      "vacancy": {
+        "id": "47498289",
+        "premium": false,
+        "name": "Тайный покупатель",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "131",
+          "name": "Симферополь",
+          "url": "https://api.hh.ru/areas/131"
+        },
+        "salary": {
+          "from": 10000,
+          "to": 30000,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2021-10-01T22:18:06+0300",
+        "created_at": "2021-10-01T22:18:06+0300",
+        "archived": true,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=47498289",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/47498289?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/47498289/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/47498289",
+        "employer": {
+          "id": "70195",
+          "name": "4Service",
+          "url": "https://api.hh.ru/employers/70195",
+          "alternate_url": "https://hh.ru/employer/70195",
+          "logo_urls": {
+            "original": "https://hhcdn.ru/employer-logo-original/686899.png",
+            "240": "https://hhcdn.ru/employer-logo/3188729.png",
+            "90": "https://hhcdn.ru/employer-logo/3188728.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=70195",
+          "trusted": true
+        }
+      }
+    },
+    {
+      "id": "2310790482",
+      "state": {
+        "id": "invitation",
+        "name": "Приглашение"
+      },
+      "created_at": "2021-09-03T18:32:36+0300",
+      "updated_at": "2021-09-04T16:56:32+0300",
+      "resume": null,
+      "viewed_by_opponent": true,
+      "has_updates": true,
+      "messages_url": "https://api.hh.ru/negotiations/2310790482/messages",
+      "url": "https://api.hh.ru/negotiations/2310790482",
+      "counters": {
+        "messages": 1,
+        "unread_messages": 0
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2307033616,
+      "messaging_status": "archived",
+      "decline_allowed": false,
+      "read": true,
+      "has_new_messages": true,
+      "hidden": false,
+      "vacancy": {
+        "id": "44772076",
+        "premium": false,
+        "name": "Помощник компьютерного мастера",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "131",
+          "name": "Симферополь",
+          "url": "https://api.hh.ru/areas/131"
+        },
+        "salary": {
+          "from": 25000,
+          "to": null,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2021-11-23T11:18:50+0300",
+        "created_at": "2021-11-23T11:18:50+0300",
+        "archived": true,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=44772076",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/44772076?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/44772076/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/44772076",
+        "employer": {
+          "id": "4194830",
+          "name": "Матрица",
+          "url": "https://api.hh.ru/employers/4194830",
+          "alternate_url": "https://hh.ru/employer/4194830",
+          "logo_urls": {
+            "original": "https://hhcdn.ru/employer-logo-original/668351.jpg",
+            "240": "https://hhcdn.ru/employer-logo/3114537.jpeg",
+            "90": "https://hhcdn.ru/employer-logo/3114536.jpeg"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4194830",
+          "trusted": false
+        }
+      }
+    },
+    {
+      "id": "2276811927",
+      "state": {
+        "id": "discard",
+        "name": "Отказ"
+      },
+      "created_at": "2021-08-06T22:38:12+0300",
+      "updated_at": "2021-08-09T15:28:07+0300",
+      "resume": null,
+      "viewed_by_opponent": true,
+      "has_updates": false,
+      "messages_url": "https://api.hh.ru/negotiations/2276811927/messages",
+      "url": "https://api.hh.ru/negotiations/2276811927",
+      "counters": {
+        "messages": 1,
+        "unread_messages": 0
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2273055060,
+      "messaging_status": "archived",
+      "decline_allowed": false,
+      "read": true,
+      "has_new_messages": false,
+      "hidden": false,
+      "vacancy": {
+        "id": "46665582",
+        "premium": false,
+        "name": "Модератор в Яндекс.Объявления",
+        "department": null,
+        "has_test": true,
+        "response_letter_required": false,
+        "area": {
+          "id": "88",
+          "name": "Казань",
+          "url": "https://api.hh.ru/areas/88"
+        },
+        "salary": {
+          "from": 32000,
+          "to": 32000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2021-08-23T14:31:24+0300",
+        "created_at": "2021-08-23T14:31:24+0300",
+        "archived": true,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=46665582",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/46665582?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/46665582/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/46665582",
+        "employer": {
+          "id": "1740",
+          "name": "Яндекс",
+          "url": "https://api.hh.ru/employers/1740",
+          "alternate_url": "https://hh.ru/employer/1740",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/3790847.png",
+            "240": "https://hhcdn.ru/employer-logo/3790848.png",
+            "original": "https://hhcdn.ru/employer-logo-original/837491.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+          "trusted": true
+        }
+      }
+    },
+    {
+      "id": "2204024924",
+      "state": {
+        "id": "invitation",
+        "name": "Приглашение"
+      },
+      "created_at": "2021-06-01T14:49:35+0300",
+      "updated_at": "2021-06-01T14:49:35+0300",
+      "resume": null,
+      "viewed_by_opponent": true,
+      "has_updates": false,
+      "messages_url": "https://api.hh.ru/negotiations/2204024924/messages",
+      "url": "https://api.hh.ru/negotiations/2204024924",
+      "counters": {
+        "messages": 1,
+        "unread_messages": 0
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2200268057,
+      "messaging_status": "archived",
+      "decline_allowed": false,
+      "read": true,
+      "has_new_messages": false,
+      "hidden": false,
+      "vacancy": {
+        "id": "44405555",
+        "premium": false,
+        "name": "Программист 1С (стажер)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "131",
+          "name": "Симферополь",
+          "url": "https://api.hh.ru/areas/131"
+        },
+        "salary": {
+          "from": 25000,
+          "to": 40000,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Симферополь",
+          "street": "Киевская улица",
+          "building": "79",
+          "description": null,
+          "lat": 44.959929,
+          "lng": 34.109337,
+          "raw": "Симферополь, Киевская улица, 79",
+          "metro": null,
+          "metro_stations": [],
+          "id": "2495040"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2021-07-19T08:35:26+0300",
+        "created_at": "2021-07-19T08:35:26+0300",
+        "archived": true,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=44405555",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/44405555?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/44405555/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/44405555",
+        "employer": {
+          "id": "2786616",
+          "name": "Лаборатория Форт Крым",
+          "url": "https://api.hh.ru/employers/2786616",
+          "alternate_url": "https://hh.ru/employer/2786616",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/2977204.png",
+            "240": "https://hhcdn.ru/employer-logo/2977205.png",
+            "original": "https://hhcdn.ru/employer-logo-original/634013.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2786616",
+          "trusted": true
+        }
+      }
+    },
+    {
+      "id": "2201903765",
+      "state": {
+        "id": "invitation",
+        "name": "Приглашение"
+      },
+      "created_at": "2021-05-31T00:28:01+0300",
+      "updated_at": "2021-06-01T13:01:04+0300",
+      "resume": null,
+      "viewed_by_opponent": true,
+      "has_updates": false,
+      "messages_url": "https://api.hh.ru/negotiations/2201903765/messages",
+      "url": "https://api.hh.ru/negotiations/2201903765",
+      "counters": {
+        "messages": 2,
+        "unread_messages": 0
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2198146898,
+      "messaging_status": "archived",
+      "decline_allowed": false,
+      "read": true,
+      "has_new_messages": false,
+      "hidden": false,
+      "vacancy": {
+        "id": "44671359",
+        "premium": false,
+        "name": "Стажер-разработчик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "4",
+          "name": "Новосибирск",
+          "url": "https://api.hh.ru/areas/4"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2021-06-17T12:07:52+0300",
+        "created_at": "2021-06-17T12:07:52+0300",
+        "archived": true,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=44671359",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/44671359?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/44671359/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/44671359",
+        "employer": {
+          "id": "1890198",
+          "name": "MetaLamp",
+          "url": "https://api.hh.ru/employers/1890198",
+          "alternate_url": "https://hh.ru/employer/1890198",
+          "logo_urls": {
+            "240": "https://hhcdn.ru/employer-logo/3682044.png",
+            "90": "https://hhcdn.ru/employer-logo/3682043.png",
+            "original": "https://hhcdn.ru/employer-logo-original/810289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1890198",
+          "trusted": true
+        }
+      }
+    },
+    {
+      "id": "2201903584",
+      "state": {
+        "id": "discard",
+        "name": "Отказ"
+      },
+      "created_at": "2021-05-31T00:27:28+0300",
+      "updated_at": "2021-05-31T14:41:00+0300",
+      "resume": null,
+      "viewed_by_opponent": true,
+      "has_updates": true,
+      "messages_url": "https://api.hh.ru/negotiations/2201903584/messages",
+      "url": "https://api.hh.ru/negotiations/2201903584",
+      "counters": {
+        "messages": 1,
+        "unread_messages": 0
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2198146717,
+      "messaging_status": "archived",
+      "decline_allowed": false,
+      "read": true,
+      "has_new_messages": true,
+      "hidden": false,
+      "vacancy": {
+        "id": "44973380",
+        "premium": false,
+        "name": "Стажер-разработчик Python",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "3",
+          "name": "Екатеринбург",
+          "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": {
+          "from": 25000,
+          "to": null,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Екатеринбург",
+          "street": "улица Добролюбова",
+          "building": "16/2",
+          "description": null,
+          "lat": 56.831571,
+          "lng": 60.602766,
+          "raw": "Екатеринбург, улица Добролюбова, 16/2",
+          "metro": {
+            "station_name": "Геологическая",
+            "line_name": "Север-Юг",
+            "station_id": "48.267",
+            "line_id": "48",
+            "lat": 56.826715,
+            "lng": 60.603754
+          },
+          "metro_stations": [
+            {
+              "station_name": "Геологическая",
+              "line_name": "Север-Юг",
+              "station_id": "48.267",
+              "line_id": "48",
+              "lat": 56.826715,
+              "lng": 60.603754
+            },
+            {
+              "station_name": "Площадь 1905 года",
+              "line_name": "Север-Юг",
+              "station_id": "48.266",
+              "line_id": "48",
+              "lat": 56.837982,
+              "lng": 60.59734
+            }
+          ],
+          "id": "5029416"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2021-07-01T11:33:34+0300",
+        "created_at": "2021-07-01T11:33:34+0300",
+        "archived": true,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=44973380",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/44973380?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/44973380/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/44973380",
+        "employer": {
+          "id": "65068",
+          "name": "Сайтсофт",
+          "url": "https://api.hh.ru/employers/65068",
+          "alternate_url": "https://hh.ru/employer/65068",
+          "logo_urls": {
+            "original": "https://hhcdn.ru/employer-logo-original/771311.png",
+            "90": "https://hhcdn.ru/employer-logo/3526201.png",
+            "240": "https://hhcdn.ru/employer-logo/3526202.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=65068",
+          "trusted": true
+        }
+      }
+    },
+    {
+      "id": "2201903434",
+      "state": {
+        "id": "response",
+        "name": "Отклик"
+      },
+      "created_at": "2021-05-31T00:27:02+0300",
+      "updated_at": "2021-05-31T00:27:02+0300",
+      "resume": null,
+      "viewed_by_opponent": true,
+      "has_updates": false,
+      "messages_url": "https://api.hh.ru/negotiations/2201903434/messages",
+      "url": "https://api.hh.ru/negotiations/2201903434",
+      "counters": {
+        "messages": 0,
+        "unread_messages": 0
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2198146567,
+      "messaging_status": "archived",
+      "decline_allowed": false,
+      "read": true,
+      "has_new_messages": false,
+      "hidden": false,
+      "vacancy": {
+        "id": "44922035",
+        "premium": false,
+        "name": "Стажер-разработчик Python",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "3",
+          "name": "Екатеринбург",
+          "url": "https://api.hh.ru/areas/3"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2021-06-07T19:58:48+0300",
+        "created_at": "2021-06-07T19:58:48+0300",
+        "archived": true,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=44922035",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/44922035?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/44922035/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/44922035",
+        "employer": {
+          "id": "4285661",
+          "name": "Рондем",
+          "url": "https://api.hh.ru/employers/4285661",
+          "alternate_url": "https://hh.ru/employer/4285661",
+          "logo_urls": {
+            "original": "https://hhcdn.ru/employer-logo-original/681683.png",
+            "240": "https://hhcdn.ru/employer-logo/3167865.png",
+            "90": "https://hhcdn.ru/employer-logo/3167864.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4285661",
+          "trusted": true
+        }
+      }
+    },
+    {
+      "id": "2197823300",
+      "state": {
+        "id": "invitation",
+        "name": "Приглашение"
+      },
+      "created_at": "2021-05-26T14:11:36+0300",
+      "updated_at": "2021-05-26T14:11:36+0300",
+      "resume": null,
+      "viewed_by_opponent": true,
+      "has_updates": true,
+      "messages_url": "https://api.hh.ru/negotiations/2197823300/messages",
+      "url": "https://api.hh.ru/negotiations/2197823300",
+      "counters": {
+        "messages": 1,
+        "unread_messages": 0
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2194066433,
+      "messaging_status": "archived",
+      "decline_allowed": false,
+      "read": true,
+      "has_new_messages": true,
+      "hidden": false,
+      "vacancy": {
+        "id": "44747415",
+        "premium": false,
+        "name": "Менеджер в пункт выдачи заказов (не продажи)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "131",
+          "name": "Симферополь",
+          "url": "https://api.hh.ru/areas/131"
+        },
+        "salary": {
+          "from": null,
+          "to": 20000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Симферополь",
+          "street": "проспект Победы",
+          "building": "175",
+          "description": null,
+          "lat": 44.971479,
+          "lng": 34.133654,
+          "raw": "Симферополь, проспект Победы, 175",
+          "metro": null,
+          "metro_stations": [],
+          "id": "5616662"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2021-05-20T13:14:21+0300",
+        "created_at": "2021-05-20T13:14:21+0300",
+        "archived": true,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=44747415",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/44747415?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/44747415/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/44747415",
+        "employer": {
+          "id": "3530",
+          "name": "СДЭК",
+          "url": "https://api.hh.ru/employers/3530",
+          "alternate_url": "https://hh.ru/employer/3530",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/5393076.png",
+            "240": "https://hhcdn.ru/employer-logo/5393077.png",
+            "original": "https://hhcdn.ru/employer-logo-original/964764.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3530",
+          "trusted": true
+        }
+      }
+    },
+    {
+      "id": "2178005646",
+      "state": {
+        "id": "discard",
+        "name": "Отказ"
+      },
+      "created_at": "2021-05-06T11:46:52+0300",
+      "updated_at": "2021-05-13T13:22:05+0300",
+      "resume": null,
+      "viewed_by_opponent": true,
+      "has_updates": true,
+      "messages_url": "https://api.hh.ru/negotiations/2178005646/messages",
+      "url": "https://api.hh.ru/negotiations/2178005646",
+      "counters": {
+        "messages": 1,
+        "unread_messages": 0
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2174248779,
+      "messaging_status": "archived",
+      "decline_allowed": false,
+      "read": true,
+      "has_new_messages": true,
+      "hidden": false,
+      "vacancy": {
+        "id": "44392930",
+        "premium": false,
+        "name": "Преподаватель программирования для детей (Удаленно)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2021-06-01T17:43:15+0300",
+        "created_at": "2021-06-01T17:43:15+0300",
+        "archived": true,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=44392930",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/44392930?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/44392930/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/44392930",
+        "employer": {
+          "id": "5218778",
+          "name": "LancmanSchool (ИП Лунев Сергей Михайлович )",
+          "url": "https://api.hh.ru/employers/5218778",
+          "alternate_url": "https://hh.ru/employer/5218778",
+          "logo_urls": null,
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5218778",
+          "trusted": true
+        }
+      }
+    },
+    {
+      "id": "2182650146",
+      "state": {
+        "id": "response",
+        "name": "Отклик"
+      },
+      "created_at": "2021-05-12T12:09:26+0300",
+      "updated_at": "2021-05-12T12:09:26+0300",
+      "resume": null,
+      "viewed_by_opponent": true,
+      "has_updates": false,
+      "messages_url": "https://api.hh.ru/negotiations/2182650146/messages",
+      "url": "https://api.hh.ru/negotiations/2182650146",
+      "counters": {
+        "messages": 0,
+        "unread_messages": 0
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2178893279,
+      "messaging_status": "archived",
+      "decline_allowed": false,
+      "read": true,
+      "has_new_messages": false,
+      "hidden": false,
+      "vacancy": {
+        "id": "43744757",
+        "premium": false,
+        "name": "Комьюнити-менеджер",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 27000,
+          "to": 30000,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": "Огородный проезд",
+          "building": "20с27",
+          "description": null,
+          "lat": 55.818655,
+          "lng": 37.595168,
+          "raw": "Москва, Огородный проезд, 20с27",
+          "metro": {
+            "station_name": "Бутырская ",
+            "line_name": "Люблинско-Дмитровская",
+            "station_id": "10.546",
+            "line_id": "10",
+            "lat": 55.813333,
+            "lng": 37.602778
+          },
+          "metro_stations": [
+            {
+              "station_name": "Бутырская ",
+              "line_name": "Люблинско-Дмитровская",
+              "station_id": "10.546",
+              "line_id": "10",
+              "lat": 55.813333,
+              "lng": 37.602778
+            },
+            {
+              "station_name": "Тимирязевская",
+              "line_name": "Серпуховско-Тимирязевская",
+              "station_id": "9.141",
+              "line_id": "9",
+              "lat": 55.81866,
+              "lng": 37.574498
+            },
+            {
+              "station_name": "Улица Милашенкова",
+              "line_name": "Монорельс",
+              "station_id": "96.550",
+              "line_id": "96",
+              "lat": 55.821876,
+              "lng": 37.591206
+            },
+            {
+              "station_name": "Фонвизинская",
+              "line_name": "Люблинско-Дмитровская",
+              "station_id": "10.547",
+              "line_id": "10",
+              "lat": 55.822778,
+              "lng": 37.588056
+            }
+          ],
+          "id": "243326"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2021-05-31T09:13:05+0300",
+        "created_at": "2021-05-31T09:13:05+0300",
+        "archived": true,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=43744757",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/43744757?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/43744757/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/43744757",
+        "employer": {
+          "id": "157215",
+          "name": "Федеральная сеть книжных магазинов Читай-город",
+          "url": "https://api.hh.ru/employers/157215",
+          "alternate_url": "https://hh.ru/employer/157215",
+          "logo_urls": {
+            "original": "https://hhcdn.ru/employer-logo-original/942748.jpg",
+            "240": "https://hhcdn.ru/employer-logo/4211529.jpeg",
+            "90": "https://hhcdn.ru/employer-logo/4211528.jpeg"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=157215",
+          "trusted": true
+        }
+      }
+    },
+    {
+      "id": "2175752297",
+      "state": {
+        "id": "invitation",
+        "name": "Приглашение"
+      },
+      "created_at": "2021-05-03T23:34:07+0300",
+      "updated_at": "2021-05-10T12:51:30+0300",
+      "resume": null,
+      "viewed_by_opponent": false,
+      "has_updates": false,
+      "messages_url": "https://api.hh.ru/negotiations/2175752297/messages",
+      "url": "https://api.hh.ru/negotiations/2175752297",
+      "counters": {
+        "messages": 2,
+        "unread_messages": 1
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2171995430,
+      "messaging_status": "archived",
+      "decline_allowed": false,
+      "read": false,
+      "has_new_messages": false,
+      "hidden": false,
+      "vacancy": {
+        "id": "43621790",
+        "premium": false,
+        "name": "Регистратор заявок",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "96",
+          "name": "Ижевск",
+          "url": "https://api.hh.ru/areas/96"
+        },
+        "salary": {
+          "from": 30000,
+          "to": 33000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Ижевск",
+          "street": "Удмуртская улица",
+          "building": "255В",
+          "description": null,
+          "lat": 56.866327,
+          "lng": 53.220375,
+          "raw": "Ижевск, Удмуртская улица, 255В",
+          "metro": null,
+          "metro_stations": [],
+          "id": "5265651"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2021-04-05T17:05:26+0300",
+        "created_at": "2021-04-05T17:05:26+0300",
+        "archived": true,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=43621790",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/43621790?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/43621790/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/43621790",
+        "employer": {
+          "id": "2324776",
+          "name": "Промоушен.ру",
+          "url": "https://api.hh.ru/employers/2324776",
+          "alternate_url": "https://hh.ru/employer/2324776",
+          "logo_urls": {
+            "original": "https://hhcdn.ru/employer-logo-original/1000669.jpg",
+            "90": "https://hhcdn.ru/employer-logo/5623456.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/5623457.jpeg"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2324776",
+          "trusted": true
+        }
+      }
+    },
+    {
+      "id": "2175754604",
+      "state": {
+        "id": "invitation",
+        "name": "Приглашение"
+      },
+      "created_at": "2021-05-03T23:40:45+0300",
+      "updated_at": "2021-05-07T14:21:49+0300",
+      "resume": null,
+      "viewed_by_opponent": false,
+      "has_updates": false,
+      "messages_url": "https://api.hh.ru/negotiations/2175754604/messages",
+      "url": "https://api.hh.ru/negotiations/2175754604",
+      "counters": {
+        "messages": 2,
+        "unread_messages": 1
+      },
+      "chat_states": {
+        "response_reminder_state": {
+          "allowed": false
+        }
+      },
+      "source": "NEGOTIATION",
+      "chat_id": 2171997737,
+      "messaging_status": "archived",
+      "decline_allowed": false,
+      "read": false,
+      "has_new_messages": false,
+      "hidden": false,
+      "vacancy": {
+        "id": "43772174",
+        "premium": false,
+        "name": "Оператор call-центра (на дому)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "131",
+          "name": "Симферополь",
+          "url": "https://api.hh.ru/areas/131"
+        },
+        "salary": {
+          "from": 30000,
+          "to": 65000,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2021-04-09T22:01:55+0300",
+        "created_at": "2021-04-09T22:01:55+0300",
+        "archived": true,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=43772174",
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/43772174?host=hh.ru",
+        "adv_response_url": "https://api.hh.ru/vacancies/43772174/adv_response?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/43772174",
+        "employer": {
+          "id": "5516123",
+          "name": "Job development (ИП Козлова Ольга Александровна)",
+          "url": "https://api.hh.ru/employers/5516123",
+          "alternate_url": "https://hh.ru/employer/5516123",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/3897727.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/3897728.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/864213.jpg"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5516123",
+          "trusted": true
+        }
+      }
+    }
+  ],
+  "found": 47,
+  "pages": 3,
+  "per_page": 20,
+  "page": 0
+}

@@ -1,0 +1,1628 @@
+{
+  "items": [
+    {
+      "id": "69637296",
+      "premium": false,
+      "name": "Фасовщик онлайн заказов (подработка, работа у дома)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": null,
+        "to": 63000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-08T20:20:58+0300",
+      "created_at": "2022-09-08T20:20:58+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69637296",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/69637296?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/69637296/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/69637296",
+      "relations": [],
+      "employer": {
+        "id": "4102125",
+        "name": "Staff-Linear",
+        "url": "https://api.hh.ru/employers/4102125",
+        "alternate_url": "https://hh.ru/employer/4102125",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3389409.png",
+          "240": "https://hhcdn.ru/employer-logo/3389410.png",
+          "original": "https://hhcdn.ru/employer-logo-original/737108.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4102125",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Принимаем БЕЗ ОПЫТА работы. Внимательность.",
+        "responsibility": "Упаковка заказов. Предоставление заказов клиенту."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [
+        {
+          "id": "only_saturday_and_sunday",
+          "name": "Работа только по сб и вс"
+        }
+      ],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": true
+    },
+    {
+      "id": "69158233",
+      "premium": false,
+      "name": "Сотрудник в кафе (есть свободная подработка)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": null,
+        "to": 39000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-09T09:07:33+0300",
+      "created_at": "2022-09-09T09:07:33+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69158233",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/69158233?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/69158233/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/69158233",
+      "relations": [],
+      "employer": {
+        "id": "4811615",
+        "name": "Start-Job",
+        "url": "https://api.hh.ru/employers/4811615",
+        "alternate_url": "https://hh.ru/employer/4811615",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3903671.png",
+          "240": "https://hhcdn.ru/employer-logo/3903672.png",
+          "original": "https://hhcdn.ru/employer-logo-original/865699.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4811615",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Внимательность и аккуратность.",
+        "responsibility": "Клиент пришел и сделал заказ. - Заказ передали на кухню. - Вы собрали заказ и отдали его клиенту."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [
+        {
+          "id": "only_saturday_and_sunday",
+          "name": "Работа только по сб и вс"
+        }
+      ],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": true
+    },
+    {
+      "id": "69637911",
+      "premium": false,
+      "name": "Сборщик заказов выходного дня",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": null,
+        "to": 65000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-08T21:41:03+0300",
+      "created_at": "2022-09-08T21:41:03+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69637911",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/69637911?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/69637911/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/69637911",
+      "relations": [],
+      "employer": {
+        "id": "3036416",
+        "name": "Департамент Ф53",
+        "url": "https://api.hh.ru/employers/3036416",
+        "alternate_url": "https://hh.ru/employer/3036416",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/967220.png",
+          "240": "https://hhcdn.ru/employer-logo/5487997.png",
+          "90": "https://hhcdn.ru/employer-logo/5487996.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3036416",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Пунктуальность. Ответственность.",
+        "responsibility": "Комплектовать и собирать интернет заказы. Проверять срок годности и товарный вид продуктов. Работа через приложение, не нужно ехать в офис..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [
+        {
+          "id": "only_saturday_and_sunday",
+          "name": "Работа только по сб и вс"
+        }
+      ],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": true
+    },
+    {
+      "id": "69237329",
+      "premium": false,
+      "name": "Оператор ПК - консультант электронных заявок удалённо (работа в чате и с входящими обращениями)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": 38000,
+        "to": 60000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-09T09:13:03+0300",
+      "created_at": "2022-09-09T09:13:03+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69237329",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/69237329?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/69237329/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/69237329",
+      "relations": [],
+      "employer": {
+        "id": "4811615",
+        "name": "Start-Job",
+        "url": "https://api.hh.ru/employers/4811615",
+        "alternate_url": "https://hh.ru/employer/4811615",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3903671.png",
+          "240": "https://hhcdn.ru/employer-logo/3903672.png",
+          "original": "https://hhcdn.ru/employer-logo-original/865699.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4811615",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Грамотная речь. Умение вежливо разговаривать с клиентами. Для работы из дома нужен компьютер или ноутбук и наушники с микрофоном (гарнитура). ",
+        "responsibility": "РАБОТАТЬ ИЗ ДОМА ЗА КОМПЬЮТЕРОМ ИЛИ НОУТБУКОМ. КОНСУЛЬТИРОВАТЬ клиентов В ЧАТАХ и на ВХОДЯЩИХ обращениях. (БЕЗ ПРОДАЖ! БЕЗ ПОИСКА КЛИЕНТОВ!)."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true
+    },
+    {
+      "id": "69262337",
+      "premium": false,
+      "name": "Удаленный сотрудник на ввод данных (удаленная работа)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": 38000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-09T09:14:58+0300",
+      "created_at": "2022-09-09T09:14:58+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69262337",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/69262337?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/69262337/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/69262337",
+      "relations": [],
+      "employer": {
+        "id": "4811615",
+        "name": "Start-Job",
+        "url": "https://api.hh.ru/employers/4811615",
+        "alternate_url": "https://hh.ru/employer/4811615",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3903671.png",
+          "240": "https://hhcdn.ru/employer-logo/3903672.png",
+          "original": "https://hhcdn.ru/employer-logo-original/865699.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4811615",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "ВЫ будете работать 1на1 с компьютером, обрабатывать заявки клиентов и отвечать на сообщения в чате. ОПЫТ РАБОТЫ НЕ...",
+        "responsibility": null
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": true
+    },
+    {
+      "id": "68857542",
+      "premium": false,
+      "name": "Сборщик заказов в магазине у дома",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": null,
+        "to": 71000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-09T09:08:48+0300",
+      "created_at": "2022-09-09T09:08:48+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68857542",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68857542?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68857542/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68857542",
+      "relations": [],
+      "employer": {
+        "id": "4811615",
+        "name": "Start-Job",
+        "url": "https://api.hh.ru/employers/4811615",
+        "alternate_url": "https://hh.ru/employer/4811615",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3903671.png",
+          "240": "https://hhcdn.ru/employer-logo/3903672.png",
+          "original": "https://hhcdn.ru/employer-logo-original/865699.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4811615",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Принимаем БЕЗ ОПЫТА работы. Вы можете сами выбрать удобное время для работы и магазин рядом с домом. Внимательность. ",
+        "responsibility": "Собирать и упаковывать интернет заказы по приложению. Передавать собранные заказы в зону ожидания курьера."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true
+    },
+    {
+      "id": "67667560",
+      "premium": false,
+      "name": "Кладовщик/кладовщица",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": 45000,
+        "to": 120000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Новосибирск",
+        "street": "улица Петухова",
+        "building": "71/2",
+        "description": null,
+        "lat": 54.945355,
+        "lng": 82.914429,
+        "raw": "Новосибирск, улица Петухова, 71/2",
+        "metro": null,
+        "metro_stations": [],
+        "id": "6265116"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-09T12:12:47+0300",
+      "created_at": "2022-09-09T12:12:47+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=67667560",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/67667560?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/67667560/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/67667560",
+      "relations": [],
+      "employer": {
+        "id": "87021",
+        "name": "WILDBERRIES",
+        "url": "https://api.hh.ru/employers/87021",
+        "alternate_url": "https://hh.ru/employer/87021",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/678792.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/3156301.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/3156300.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=87021",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы на складах желателен, но не обязателен. Мы рассматриваем людей, как с опытом, так и без опыта работы на...",
+        "responsibility": "Упаковка товара. Сортировка товара. Сборка товара. Раскладка товара."
+      },
+      "contacts": {
+        "name": "Каширина Владислава",
+        "email": "chelpanova.sofya@wb.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "901",
+            "number": "2470539",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true
+    },
+    {
+      "id": "69594646",
+      "premium": false,
+      "name": "Сборщик - Упаковщик интернет заказов",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": null,
+        "to": 78000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-07T22:58:16+0300",
+      "created_at": "2022-09-07T22:58:16+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69594646",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/69594646?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/69594646/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/69594646",
+      "relations": [],
+      "employer": {
+        "id": "4102125",
+        "name": "Staff-Linear",
+        "url": "https://api.hh.ru/employers/4102125",
+        "alternate_url": "https://hh.ru/employer/4102125",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3389409.png",
+          "240": "https://hhcdn.ru/employer-logo/3389410.png",
+          "original": "https://hhcdn.ru/employer-logo-original/737108.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4102125",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Принимаем БЕЗ ОПЫТА работы. Ежедневный расчет. Свободный график. Вы можете сами выбрать удобное время для работы. Внимательность. Умение ориентироваться в...",
+        "responsibility": "Сборка и упаковка интернет заказов. Передача заказа в зону ожидания курьера."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [
+        {
+          "id": "only_saturday_and_sunday",
+          "name": "Работа только по сб и вс"
+        }
+      ],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": true
+    },
+    {
+      "id": "69232513",
+      "premium": false,
+      "name": "Администратор удаленно",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": 25000,
+        "to": 40000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-08T17:15:57+0300",
+      "created_at": "2022-09-08T17:15:57+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69232513",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/69232513?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/69232513/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/69232513",
+      "relations": [],
+      "employer": {
+        "id": "8990523",
+        "name": "Тимофеева Анна Николаевна",
+        "url": "https://api.hh.ru/employers/8990523",
+        "alternate_url": "https://hh.ru/employer/8990523",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8990523",
+        "trusted": false
+      },
+      "snippet": {
+        "requirement": "Нам нужен активный, целеустремленный человек, готовый обучаться. Умение работать с людьми будет вашим дополнительным плюсом.",
+        "responsibility": "Обязанности: размещение объявлений, обработка входящих заявок, работа с готовой базой и наработка новой. Отправка инфопакетов по готовым инструкциям."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [
+        {
+          "id": "only_saturday_and_sunday",
+          "name": "Работа только по сб и вс"
+        }
+      ],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": true
+    },
+    {
+      "id": "69440238",
+      "premium": false,
+      "name": "Гардеробщик/Гардеробщица",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": 30000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Новосибирск",
+        "street": "улица Николая Островского",
+        "building": null,
+        "description": null,
+        "lat": 55.052025,
+        "lng": 82.943283,
+        "raw": "Новосибирск, улица Николая Островского",
+        "metro": null,
+        "metro_stations": [],
+        "id": "725676"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-09T15:03:50+0300",
+      "created_at": "2022-09-09T15:03:50+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69440238",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/69440238?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/69440238/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/69440238",
+      "relations": [],
+      "employer": {
+        "id": "2597017",
+        "name": "Боулинг-центр Quantum",
+        "url": "https://api.hh.ru/employers/2597017",
+        "alternate_url": "https://hh.ru/employer/2597017",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/902064.png",
+          "90": "https://hhcdn.ru/employer-logo/4048943.png",
+          "240": "https://hhcdn.ru/employer-logo/4048944.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2597017",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Требуемые личные качества: вежливый, доброжелательный, коммуникабельный.",
+        "responsibility": "Обязанности: Приём и выдача верхней одежды на автоматическом гардеробе, соблюдение чистоты и порядка на рабочем месте."
+      },
+      "contacts": {
+        "name": "Вадим, Сергей",
+        "email": "info@quantum36.ru",
+        "phones": [
+          {
+            "comment": "Звонить после 12:00",
+            "city": "906",
+            "number": "9091030",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "69576877",
+      "premium": false,
+      "name": "Менеджер продаж (подработка)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": 29000,
+        "to": 70000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Новосибирск",
+        "street": "Октябрьская улица",
+        "building": "17",
+        "description": null,
+        "lat": 55.0246,
+        "lng": 82.916989,
+        "raw": "Новосибирск, Октябрьская улица, 17",
+        "metro": null,
+        "metro_stations": [],
+        "id": "5773181"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-09T05:37:32+0300",
+      "created_at": "2022-09-09T05:37:32+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69576877",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/69576877?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/69576877/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/69576877",
+      "relations": [],
+      "employer": {
+        "id": "2748",
+        "name": "Ростелеком",
+        "url": "https://api.hh.ru/employers/2748",
+        "alternate_url": "https://hh.ru/employer/2748",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/2812976.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/2812975.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/592930.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2748",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Готовность уделять работе от 3-4 часов в день (график подбирается индивидуально). Навыки работы со смартфоном(пользовательский уровень)-для внесения...",
+        "responsibility": "Звонки по готовой базе(теплая/холодная). Консультирование абонентов по актуальным тарифам. Оформлять заявки на подключение."
+      },
+      "contacts": {
+        "name": "Майоров Герман Алексеевич",
+        "email": "german.mayorov@sibir.rt.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "960",
+            "number": "7938426",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [
+        {
+          "id": "only_saturday_and_sunday",
+          "name": "Работа только по сб и вс"
+        }
+      ],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": true
+    },
+    {
+      "id": "69390378",
+      "premium": false,
+      "name": "Промоутер-расклейщик",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": 20000,
+        "to": 46000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Новосибирск",
+        "street": "Ленинский район",
+        "building": null,
+        "description": null,
+        "lat": 55.001979,
+        "lng": 82.842312,
+        "raw": "Новосибирск, Ленинский район",
+        "metro": {
+          "station_name": "площадь Карла Маркса",
+          "line_name": "Ленинская",
+          "station_id": "52.301",
+          "line_id": "52",
+          "lat": 54.982931,
+          "lng": 82.89313
+        },
+        "metro_stations": [
+          {
+            "station_name": "площадь Карла Маркса",
+            "line_name": "Ленинская",
+            "station_id": "52.301",
+            "line_id": "52",
+            "lat": 54.982931,
+            "lng": 82.89313
+          }
+        ],
+        "id": "11632541"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-09T10:57:34+0300",
+      "created_at": "2022-09-09T10:57:34+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69390378",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/69390378?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/69390378/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/69390378",
+      "relations": [],
+      "employer": {
+        "id": "3197321",
+        "name": "Кузница Кадров",
+        "url": "https://api.hh.ru/employers/3197321",
+        "alternate_url": "https://hh.ru/employer/3197321",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3231824.png",
+          "240": "https://hhcdn.ru/employer-logo/3231825.png",
+          "original": "https://hhcdn.ru/employer-logo-original/697677.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3197321",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Ответственность. Опыт работы не обязателен, но приветствуется на таких должностях, как промоутер, распространитель листовок, расклейщик.",
+        "responsibility": "Распространение рекламных визиток по почтовым ящикам многоквартирных домов. ️ Ключи от домофонов предоставляем. ️ Без фотоотчета!"
+      },
+      "contacts": {
+        "name": "Гуреева Малика",
+        "email": "gureeva@kkadry.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "906",
+            "number": "9084287",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": true
+    },
+    {
+      "id": "69229015",
+      "premium": false,
+      "name": "Консультант/Оператор (без холодных звонков, удаленно)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": 22000,
+        "to": 45000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-08T10:41:34+0300",
+      "created_at": "2022-09-08T10:41:34+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69229015",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/69229015?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/69229015/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/69229015",
+      "relations": [],
+      "employer": {
+        "id": "3714420",
+        "name": "СВОИ",
+        "url": "https://api.hh.ru/employers/3714420",
+        "alternate_url": "https://hh.ru/employer/3714420",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3275184.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/3275185.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/708517.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3714420",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "1. Грамотная речь. 2. Знание компьютера на уровне пользователя. 3.Скорость печати от 130 знаков в минуту. От вас нужны тишина...",
+        "responsibility": "Работа с крупной торговой площадкой (интернет-телемагазин: обувь, одежда, аксессуары). Что необходимо делать:  Работать с входящими обращениями.  Помогать оформить заказ.  "
+      },
+      "contacts": {
+        "name": "Ирина",
+        "email": "cc.svoi@mail.ru",
+        "phones": [
+          {
+            "comment": "пишите в вайбере или телеграмм +7 (992) 245-61-02 @ccsvoi",
+            "city": "960",
+            "number": "7790424",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": true
+    },
+    {
+      "id": "68279337",
+      "premium": false,
+      "name": "Продавец - консультант (есть свободная подработка)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": 45000,
+        "to": 76000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-08T09:06:07+0300",
+      "created_at": "2022-09-08T09:06:07+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=68279337",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/68279337?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/68279337/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/68279337",
+      "relations": [],
+      "employer": {
+        "id": "4811615",
+        "name": "Start-Job",
+        "url": "https://api.hh.ru/employers/4811615",
+        "alternate_url": "https://hh.ru/employer/4811615",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3903671.png",
+          "240": "https://hhcdn.ru/employer-logo/3903672.png",
+          "original": "https://hhcdn.ru/employer-logo-original/865699.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4811615",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Принимаем БЕЗ ОПЫТА работы. Внимательность.",
+        "responsibility": "Работать в торговом зале с товарами и покупателями. Упаковка заказов. Предоставление заказов клиенту."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [
+        {
+          "id": "only_saturday_and_sunday",
+          "name": "Работа только по сб и вс"
+        }
+      ],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": true
+    },
+    {
+      "id": "69527666",
+      "premium": false,
+      "name": "Оператор на телефон в Стоматологию",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": 40000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Новосибирск",
+        "street": "Советская улица",
+        "building": "64/1",
+        "description": null,
+        "lat": 55.049008,
+        "lng": 82.912174,
+        "raw": "Новосибирск, Советская улица, 64/1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "11401117"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-09T12:31:40+0300",
+      "created_at": "2022-09-09T12:31:40+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69527666",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/69527666?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/69527666/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/69527666",
+      "relations": [],
+      "employer": {
+        "id": "9053519",
+        "name": "Менчикова Елена Михайловна",
+        "url": "https://api.hh.ru/employers/9053519",
+        "alternate_url": "https://hh.ru/employer/9053519",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9053519",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт значения не имеет. Знание компьютера не обязательно. Грамотная речь. Коммуникабельность, ответственность. Умение быстро входить в контакт с собеседником. ",
+        "responsibility": "Запись на прием к врачам стоматологии с использованием современной гарнитуры и программы."
+      },
+      "contacts": {
+        "name": "Мошкина Кристина",
+        "email": "kristinasitident@gmail.com",
+        "phones": [
+          {
+            "comment": null,
+            "city": "960",
+            "number": "7896645",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true
+    },
+    {
+      "id": "69466163",
+      "premium": false,
+      "name": "Расклейщик объявлений",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": 25000,
+        "to": 35000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Новосибирск",
+        "street": "Октябрьская улица",
+        "building": "42",
+        "description": null,
+        "lat": 55.024394,
+        "lng": 82.920016,
+        "raw": "Новосибирск, Октябрьская улица, 42",
+        "metro": {
+          "station_name": "Площадь Ленина",
+          "line_name": "Ленинская",
+          "station_id": "52.297",
+          "line_id": "52",
+          "lat": 55.029941,
+          "lng": 82.92069
+        },
+        "metro_stations": [
+          {
+            "station_name": "Площадь Ленина",
+            "line_name": "Ленинская",
+            "station_id": "52.297",
+            "line_id": "52",
+            "lat": 55.029941,
+            "lng": 82.92069
+          }
+        ],
+        "id": "6867400"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-08T09:24:55+0300",
+      "created_at": "2022-09-08T09:24:55+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69466163",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/69466163?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/69466163/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/69466163",
+      "relations": [],
+      "employer": {
+        "id": "5877760",
+        "name": "Селиванова Анастасия Ивановна",
+        "url": "https://api.hh.ru/employers/5877760",
+        "alternate_url": "https://hh.ru/employer/5877760",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/4100212.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/4100211.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/914883.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5877760",
+        "trusted": false
+      },
+      "snippet": {
+        "requirement": null,
+        "responsibility": "Размещение визиток и расклейка объявлений у жилых домов. В подъезды входить не нужно!"
+      },
+      "contacts": {
+        "name": "Селиванова Анастасия",
+        "email": "nsk.manager.servisk@gmail.com",
+        "phones": [
+          {
+            "comment": "ежедневно с 10:00 до 22:00",
+            "city": "906",
+            "number": "9964358",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": true
+    },
+    {
+      "id": "69595811",
+      "premium": false,
+      "name": "Сборщик заказов выходного дня",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": null,
+        "to": 51000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-08T02:45:09+0300",
+      "created_at": "2022-09-08T02:45:09+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69595811",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/69595811?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/69595811/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/69595811",
+      "relations": [],
+      "employer": {
+        "id": "3036416",
+        "name": "Департамент Ф53",
+        "url": "https://api.hh.ru/employers/3036416",
+        "alternate_url": "https://hh.ru/employer/3036416",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/967220.png",
+          "240": "https://hhcdn.ru/employer-logo/5487997.png",
+          "90": "https://hhcdn.ru/employer-logo/5487996.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3036416",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Пунктуальность. Ответственность. Дресс-код: темная (желательно однотонная) одежда, без ярких логотипов. С собой защитные маски и перчатки.",
+        "responsibility": "Комплектовать и собирать интернет заказы. Проверять срок годности и товарный вид продуктов."
+      },
+      "contacts": {
+        "name": "Кириллова Анна",
+        "email": "hr.kirilova.anna@gmail.com",
+        "phones": [
+          {
+            "comment": "только в WhatsApp с пометкой Приложение",
+            "city": "909",
+            "number": "0217136",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "69456723",
+      "premium": false,
+      "name": "Расклейщик объявлений",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": 35000,
+        "to": 50000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Новосибирск",
+        "street": "улица Блюхера",
+        "building": "28",
+        "description": null,
+        "lat": 54.9882,
+        "lng": 82.898484,
+        "raw": "Новосибирск, улица Блюхера, 28",
+        "metro": {
+          "station_name": "площадь Карла Маркса",
+          "line_name": "Ленинская",
+          "station_id": "52.301",
+          "line_id": "52",
+          "lat": 54.982931,
+          "lng": 82.89313
+        },
+        "metro_stations": [
+          {
+            "station_name": "площадь Карла Маркса",
+            "line_name": "Ленинская",
+            "station_id": "52.301",
+            "line_id": "52",
+            "lat": 54.982931,
+            "lng": 82.89313
+          },
+          {
+            "station_name": "Студенческая",
+            "line_name": "Ленинская",
+            "station_id": "52.300",
+            "line_id": "52",
+            "lat": 54.989089,
+            "lng": 82.906631
+          }
+        ],
+        "id": "5091586"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-08T05:08:50+0300",
+      "created_at": "2022-09-08T05:08:50+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69456723",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/69456723?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/69456723/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/69456723",
+      "relations": [],
+      "employer": {
+        "id": "1188886",
+        "name": "Арсенал-БТ",
+        "url": "https://api.hh.ru/employers/1188886",
+        "alternate_url": "https://hh.ru/employer/1188886",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/3751627.jpeg",
+          "240": "https://hhcdn.ru/employer-logo/3751628.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/827686.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1188886",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Требуемый опыт работы: не требуется. -Ответственность, исполнительность.",
+        "responsibility": "Вам нужно расклеивать объявления на доски (формат А5)."
+      },
+      "contacts": {
+        "name": "Багаев Никита",
+        "email": "bagaevnikki@yandex.ru",
+        "phones": [
+          {
+            "comment": null,
+            "city": "906",
+            "number": "9952742",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "flexible",
+        "name": "Гибкий график"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно работать сменами по 4–6 часов в день"
+        }
+      ],
+      "working_time_modes": [],
+      "accept_temporary": false
+    },
+    {
+      "id": "69654646",
+      "premium": false,
+      "name": "Продавец на частичную занятость в магазин TOMMY HILFIGER (ТЦ \"Галерея\")",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": 12000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Новосибирск",
+        "street": "улица Гоголя",
+        "building": "13",
+        "description": null,
+        "lat": 55.043721,
+        "lng": 82.922334,
+        "raw": "Новосибирск, улица Гоголя, 13",
+        "metro": null,
+        "metro_stations": [],
+        "id": "4656610"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-09T11:40:21+0300",
+      "created_at": "2022-09-09T11:40:21+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69654646",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/69654646?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/69654646/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/69654646",
+      "relations": [],
+      "employer": {
+        "id": "104953",
+        "name": "BNS Group",
+        "url": "https://api.hh.ru/employers/104953",
+        "alternate_url": "https://hh.ru/employer/104953",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/666611.png",
+          "240": "https://hhcdn.ru/employer-logo/3107577.png",
+          "90": "https://hhcdn.ru/employer-logo/3107576.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=104953",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Активный. Общительный и жизнерадостный. Интересующийся модой. Хочешь начать карьеру и получить хорошие знания и опыт.",
+        "responsibility": "Консультировать покупателей. Помогать в создании модного образа. Поддерживать концепцию бренда (развеска, выкладка товара). Работать в дружной команде."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [
+        {
+          "id": "only_saturday_and_sunday",
+          "name": "Работа только по сб и вс"
+        }
+      ],
+      "working_time_intervals": [],
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "Можно начинать работать после 16:00"
+        }
+      ],
+      "accept_temporary": false
+    },
+    {
+      "id": "69527711",
+      "premium": false,
+      "name": "Оператор на телефон в стоматологию",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "4",
+        "name": "Новосибирск",
+        "url": "https://api.hh.ru/areas/4"
+      },
+      "salary": {
+        "from": 35000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2022-09-09T12:32:22+0300",
+      "created_at": "2022-09-09T12:32:22+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69527711",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/69527711?host=hh.ru",
+      "adv_response_url": "https://api.hh.ru/vacancies/69527711/adv_response?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/69527711",
+      "relations": [],
+      "employer": {
+        "id": "9053519",
+        "name": "Менчикова Елена Михайловна",
+        "url": "https://api.hh.ru/employers/9053519",
+        "alternate_url": "https://hh.ru/employer/9053519",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9053519",
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт не обязателен. Умение быстро входить в контакт с собеседником. Грамотная речь.",
+        "responsibility": "Консультирование и запись на прием к врачам."
+      },
+      "contacts": {
+        "name": "Александра Николаевская",
+        "email": null,
+        "phones": [
+          {
+            "comment": null,
+            "city": "960",
+            "number": "7896673",
+            "country": "7"
+          }
+        ]
+      },
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false
+    }
+  ],
+  "found": 997587,
+  "pages": 100,
+  "per_page": 20,
+  "page": 0,
+  "clusters": null,
+  "arguments": null,
+  "alternate_url": "https://hh.ru/search/vacancy?control_flag=vacancyBlacklistJoinEnabled%3ATrue&enable_snippets=true"
+}

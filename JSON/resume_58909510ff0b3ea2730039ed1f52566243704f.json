@@ -1,0 +1,283 @@
+{
+  "last_name": "Юношев",
+  "first_name": "Ярослав",
+  "middle_name": null,
+  "title": "Игра",
+  "created_at": "2022-09-07T14:36:58+0300",
+  "updated_at": "2022-09-08T21:49:00+0300",
+  "area": {
+    "id": "1",
+    "name": "Москва",
+    "url": "https://api.hh.ru/areas/1"
+  },
+  "age": 20,
+  "gender": {
+    "id": "male",
+    "name": "Мужской"
+  },
+  "salary": {
+    "amount": 200000,
+    "currency": "RUR"
+  },
+  "photo": null,
+  "total_experience": null,
+  "certificate": [],
+  "hidden_fields": [],
+  "actions": {
+    "download": {
+      "pdf": {
+        "url": "https://api.hh.ru/resumes/58909510ff0b3ea2730039ed1f52566243704f/download/%D0%AE%D0%BD%D0%BE%D1%88%D0%B5%D0%B2%20%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2.pdf?type=pdf"
+      },
+      "rtf": {
+        "url": "https://api.hh.ru/resumes/58909510ff0b3ea2730039ed1f52566243704f/download/%D0%AE%D0%BD%D0%BE%D1%88%D0%B5%D0%B2%20%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2.rtf?type=rtf"
+      }
+    }
+  },
+  "alternate_url": "https://hh.ru/resume/58909510ff0b3ea2730039ed1f52566243704f",
+  "id": "58909510ff0b3ea2730039ed1f52566243704f",
+  "download": {
+    "pdf": {
+      "url": "https://api.hh.ru/resumes/58909510ff0b3ea2730039ed1f52566243704f/download/%D0%AE%D0%BD%D0%BE%D1%88%D0%B5%D0%B2%20%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2.pdf?type=pdf"
+    },
+    "rtf": {
+      "url": "https://api.hh.ru/resumes/58909510ff0b3ea2730039ed1f52566243704f/download/%D0%AE%D0%BD%D0%BE%D1%88%D0%B5%D0%B2%20%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2.rtf?type=rtf"
+    }
+  },
+  "resume_locale": {
+    "id": "RU",
+    "name": "Русский"
+  },
+  "skills": "Lorem  ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "citizenship": [
+    {
+      "id": "113",
+      "name": "Россия",
+      "url": "https://api.hh.ru/areas/113"
+    },
+    {
+      "id": "2511",
+      "name": "Шри-Ланка",
+      "url": "https://api.hh.ru/areas/2511"
+    }
+  ],
+  "work_ticket": [
+    {
+      "id": "113",
+      "name": "Россия",
+      "url": "https://api.hh.ru/areas/113"
+    }
+  ],
+  "access": {
+    "type": {
+      "id": "direct",
+      "name": "доступно только по прямой ссылке"
+    }
+  },
+  "birth_date": "2002-02-12",
+  "contact": [
+    {
+      "value": {
+        "country": "7",
+        "city": "978",
+        "number": "6706890",
+        "formatted": "+7 (978) 670-68-90"
+      },
+      "type": {
+        "id": "cell",
+        "name": "Мобильный телефон"
+      },
+      "preferred": false,
+      "comment": "123434314314",
+      "verified": true
+    },
+    {
+      "type": {
+        "id": "email",
+        "name": "Эл. почта"
+      },
+      "value": "rosya4806@gmail.com",
+      "preferred": true
+    }
+  ],
+  "education": {
+    "level": {
+      "id": "secondary",
+      "name": "Среднее"
+    },
+    "primary": [],
+    "additional": [],
+    "attestation": [],
+    "elementary": []
+  },
+  "employment": {
+    "id": "project",
+    "name": "Проектная работа"
+  },
+  "employments": [
+    {
+      "id": "project",
+      "name": "Проектная работа"
+    }
+  ],
+  "experience": [],
+  "language": [
+    {
+      "id": "rus",
+      "name": "Русский",
+      "level": {
+        "id": "l1",
+        "name": "Родной"
+      }
+    }
+  ],
+  "metro": null,
+  "moderation_note": [],
+  "recommendation": [],
+  "relocation": {
+    "type": {
+      "id": "no_relocation",
+      "name": "не готов к переезду"
+    },
+    "area": [],
+    "district": []
+  },
+  "schedule": {
+    "id": "fullDay",
+    "name": "Полный день"
+  },
+  "schedules": [
+    {
+      "id": "fullDay",
+      "name": "Полный день"
+    }
+  ],
+  "site": [],
+  "travel_time": {
+    "id": "any",
+    "name": "Не имеет значения"
+  },
+  "business_trip_readiness": {
+    "id": "never",
+    "name": "не готов к командировкам"
+  },
+  "next_publish_at": "2022-09-09T01:49:00+0300",
+  "can_publish_or_update": false,
+  "publish_url": "https://api.hh.ru/resumes/58909510ff0b3ea2730039ed1f52566243704f/publish",
+  "paid_services": [
+    {
+      "id": "resume_autoupdating",
+      "name": "Автоподнятие резюме",
+      "active": false
+    },
+    {
+      "id": "resume_marked",
+      "name": "Яркое резюме",
+      "active": false
+    }
+  ],
+  "finished": true,
+  "blocked": false,
+  "status": {
+    "id": "published",
+    "name": "опубликовано"
+  },
+  "portfolio": [],
+  "skill_set": [
+    "Продажи",
+    "Настройка рекламы",
+    "Внимательность",
+    "Знание латинского языка"
+  ],
+  "has_vehicle": null,
+  "driver_license_types": [],
+  "specialization": [
+    {
+      "id": "15.750",
+      "name": "Другое",
+      "profarea_id": "15",
+      "profarea_name": "Начало карьеры, студенты",
+      "laboring": false
+    }
+  ],
+  "professional_roles": [
+    {
+      "id": "40",
+      "name": "Другое"
+    }
+  ],
+  "progress": {
+    "percentage": 58,
+    "mandatory": [],
+    "recommended": [
+      {
+        "id": "photo",
+        "name": "Фото"
+      },
+      {
+        "id": "education",
+        "name": "Образование"
+      },
+      {
+        "id": "hidden_fields",
+        "name": "Список скрытых полей"
+      },
+      {
+        "id": "metro",
+        "name": "Ближайшая станция метро"
+      },
+      {
+        "id": "has_vehicle",
+        "name": "Наличие автомобиля"
+      },
+      {
+        "id": "middle_name",
+        "name": "Отчество"
+      },
+      {
+        "id": "district",
+        "name": "Район проживания"
+      },
+      {
+        "id": "site",
+        "name": "Дополнительные способы связи"
+      },
+      {
+        "id": "recommendation",
+        "name": "Рекомендации"
+      },
+      {
+        "id": "driver_license_types",
+        "name": "Категория водительских прав"
+      },
+      {
+        "id": "portfolio",
+        "name": "Портфолио"
+      },
+      {
+        "id": "experience",
+        "name": "Опыт работы"
+      }
+    ]
+  },
+  "_progress": {
+    "percentage": 58,
+    "mandatory": [],
+    "recommended": [
+      "photo",
+      "education",
+      "hidden_fields",
+      "metro",
+      "has_vehicle",
+      "middle_name",
+      "district",
+      "site",
+      "recommendation",
+      "driver_license_types",
+      "portfolio",
+      "experience"
+    ]
+  },
+  "total_views": 14,
+  "new_views": 14,
+  "views_url": "https://api.hh.ru/resumes/58909510ff0b3ea2730039ed1f52566243704f/views"
+}
